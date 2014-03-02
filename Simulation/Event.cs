@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// rndom comment number 2
+
 namespace LinkedList 
 {
     public abstract class Event
